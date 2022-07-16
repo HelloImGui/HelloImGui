@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HelloImGui
+- 👋 @HelloImGui
 - 👀 I’m interested in Web Design and process automation
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: emailofgui@gmail.com
